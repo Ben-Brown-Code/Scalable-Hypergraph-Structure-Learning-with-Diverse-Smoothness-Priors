@@ -1,0 +1,53 @@
+# Title: January - December 2016 Contiguous U.S. Statewide Average Temperature
+# Units: Degrees Fahrenheit
+# Missing: -99
+# Note: Period of Record: 130 Years
+ID,Name,Value,Anomaly (1901-2000 base period),Rank,1901-2000 Mean
+1,Alabama,65.3,2.3,126,63.1
+2,Arizona,62.2,2.8,126,59.4
+3,Arkansas,62.8,2.4,125,60.4
+4,California,60.1,2.8,124,57.4
+5,Colorado,47.3,2.7,123,44.6
+6,Connecticut,51.8,3.7,127,48
+7,Delaware,57.4,3.2,124,54.2
+8,Florida,72.5,2.3,124,70.1
+9,Georgia,65.8,2.4,128,63.4
+10,Idaho,45.1,2.5,125,42.6
+11,Illinois,54.7,3.1,125,51.6
+12,Indiana,54.2,2.9,125,51.3
+13,Iowa,50.7,3.2,124,47.5
+14,Kansas,57.2,3,127,54.1
+15,Kentucky,57.9,2.4,125,55.5
+16,Louisiana,68.7,2.4,126,66.4
+17,Maine,43.3,3.2,120,40.1
+18,Maryland,56.5,2.7,121,53.8
+19,Massachusetts,50.3,3.4,123,46.9
+20,Michigan,47.4,3.8,127,43.6
+21,Minnesota,44.6,4.5,125,40.1
+22,Mississippi,65.9,2.3,126,63.6
+23,Missouri,57.4,2.9,127,54.5
+24,Montana,44.6,3.5,128,41.1
+25,Nebraska,51.7,3.3,127,48.4
+26,Nevada,51.9,2.4,120,49.5
+27,New Hampshire,45.7,3.4,122,42.3
+28,New Jersey,55,3.5,123,51.4
+29,New Mexico,55.5,2.7,126,52.8
+30,New York,47.7,3.2,124,44.5
+31,North Carolina,60.8,2.3,126,58.5
+32,North Dakota,44.4,4.7,129,39.7
+33,Ohio,53.6,3.2,127,50.4
+34,Oklahoma,62.3,2.6,127,59.7
+35,Oregon,48.8,2.3,122,46.5
+36,Pennsylvania,50.9,2.8,124,48.1
+37,Rhode Island,52.2,3.6,125,48.6
+38,South Carolina,64.9,2.5,127,62.4
+39,South Dakota,48.4,3.8,127,44.6
+40,Tennessee,60.3,2.6,128,57.7
+41,Texas,67.2,2.5,125,64.6
+42,Utah,50.2,2.7,120,47.5
+43,Vermont,44.7,3.3,122,41.3
+44,Virginia,57.1,2.3,122,54.8
+45,Washington,48.6,2.4,127,46.1
+46,West Virginia,54.1,2.6,125,51.6
+47,Wisconsin,46.2,3.8,124,42.4
+48,Wyoming,43.9,3.2,126,40.7
